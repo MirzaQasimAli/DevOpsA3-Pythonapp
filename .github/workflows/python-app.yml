@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest  # Use the latest version of Ubuntu...
+    runs-on: ubuntu-latest  # Use the latest version of Ubuntu
     defaults:
       run:
         shell: bash
